@@ -1,6 +1,6 @@
 - 👋 Hi fellows, I’m Aliyan Khan
 - 👀 I’m interested in Web Development and programming
-- 🌱 I’m currently learning Fullstack Web development
+- 🌱 I’m currently learning Laravel Web development
 - 💞️ I’m looking to collaborate with experts organizations
 -  LinkedIn: https://www.linkedin.com/in/alyan-nasir-a53ba8234
 -    Medium: https://medium.com/@alyannasir225
