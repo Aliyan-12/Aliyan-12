@@ -1,6 +1,6 @@
 <div class="container">
         <h1>🚀 Full Stack Web Developer | Software Engineering Graduate | Empowering Digital Solutions</h1>
-        <p>I am a full stack web developer and a graduate of Software Engineering, with comprehensive experience in developing high-performance, scalable web applications. Over the course of my career, I have successfully delivered more than 10 major projects for prominent companies across various industries.</p>
+        <p>I am a full stack web developer and a graduate of Software Engineering, with comprehensive experience in developing high-performance, scalable web applications. Over the course of my career, I have successfully delivered more than 10 major projects for prominent companies across various industries. My <a href="https://portfolio-aliyan.netlify.app">Portfolio</a> | <a href="https://www.linkedin.com/in/alyan-nasir-a53ba8234" target="_blank">LinkedIn</a> | <a href="https://join.skype.com/invite/FpOVHJjysUDD">Skype</a>.</p>
         <ul>
             <li><strong>Full-Stack Expertise:</strong> Proficient in modern web technologies including React JS, Vue JS, JavaScript, HTML/CSS, PHP and frameworks like Bootstrap, Tailwind CSS, Laravel, Node.js, and Express.js. I have a deep understanding of RESTful APIs, GraphQL and WebSocket protocols to ensure seamless integration with various services.</li>
             <li><strong>Database Management:</strong> Skilled in relational databases like MySQL as well as NoSQL solutions like MongoDB with optimized schemas and writing complex queries.</li>
@@ -13,5 +13,4 @@
 <br>
 Feel free to reach out for collaboration or consultation!</p>
         <p>My area of interest is DevOps and Cyber security.</p>
-        <p>Find me on LinkedIn: <a href="https://www.linkedin.com/in/alyan-nasir-a53ba8234" target="_blank">Aliyan Nasir</a></p>
   </div>
