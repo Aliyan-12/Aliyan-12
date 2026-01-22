@@ -24,5 +24,5 @@
 <p align="left">
         <a href="https://linkedin.com/in/aliyan-nasir-a53ba8234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Aliyan-12/Aliyan-12/master/src/assets/linkedin-svgrepo-com.svg" alt="Aliyan-12" height="30" width="30" /></a>
         <a href="mailto:alyannasir225@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Aliyan-12/Aliyan-12/master/src/assets/gmail-svgrepo-com.svg" alt="Gmail" height="30" width="30" /></a>
-        <a href="https://api.whatsapp.com/send?phone=+923471433979" target="blank" alt="Connect on Whatsapp"> <img align="center" src="https://raw.githubusercontent.com/Aliyan-12/Aliyan-12/master/src/assets/whatsapp-svgrepo-com.svg" /> </a>
+        <a href="https://api.whatsapp.com/send?phone=+923471433979" target="blank" alt="Connect on Whatsapp"> <img align="center" src="https://raw.githubusercontent.com/Aliyan-12/Aliyan-12/master/src/assets/whatsapp-svgrepo-com.svg" height="30" width="30" /> </a>
 </p>
