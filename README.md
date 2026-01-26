@@ -19,7 +19,6 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-
 **📫 How to Reach me:**
 <p align="left">
         <a href="https://linkedin.com/in/aliyan-nasir-a53ba8234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Aliyan-12/Aliyan-12/master/src/assets/linkedin-svgrepo-com.svg" alt="Aliyan-12" height="30" width="30" /></a>
