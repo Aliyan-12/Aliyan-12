@@ -15,7 +15,7 @@
 
 ![Aliyan's github activity graph](https://raw.githubusercontent.com/Aliyan-12/Aliyan-12/output/github-contribution-grid-snake.svg)
 
-![Aliyan's GitHub language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliyan-12&theme=radical&layout=compact)
+<!-- ![Aliyan's GitHub language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliyan-12&theme=radical&layout=compact) -->
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
